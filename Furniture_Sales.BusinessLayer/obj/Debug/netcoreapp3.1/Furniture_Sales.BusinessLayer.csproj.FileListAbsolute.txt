@@ -1,0 +1,9 @@
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\bin\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.deps.json
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\bin\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.dll
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\bin\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.pdb
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\obj\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\obj\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\obj\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\obj\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\obj\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.dll
+E:\Shilpa\Furniture_Sales\Furniture_Sales.BusinessLayer\obj\Debug\netcoreapp3.1\Furniture_Sales.BusinessLayer.pdb
